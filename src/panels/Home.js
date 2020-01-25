@@ -66,14 +66,12 @@ class Home extends Component {
             {this.createClothes()}
           </Slider>
         </div>
-        <Div style={{ float: 'right', width: 15 + 'rem', textAlign: 'right', marginRight: 15 + 'px' }}>
-					{this.createClothePrices()}
-        </Div>
-        <Div>
-        </Div>
         <Div style={{ height: 25 + 'rem' }}></Div>
         <h2>{this.state.text.type}</h2>
         <p>{this.state.text.description}</p>
+        <Div style={{ float: 'right', width: 15 + 'rem', textAlign: 'right', marginRight: 15 + 'px' }}>
+          {this.createClothePrices()}
+        </Div>
 
       </Panel>
     )
