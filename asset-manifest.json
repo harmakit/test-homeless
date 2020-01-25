@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/test-homeless/static/css/main.981f7211.chunk.css",
-    "main.js": "/test-homeless/static/js/main.ea966d15.chunk.js",
-    "main.js.map": "/test-homeless/static/js/main.ea966d15.chunk.js.map",
+    "main.css": "/test-homeless/static/css/main.797ea3ec.chunk.css",
+    "main.js": "/test-homeless/static/js/main.338b1ccc.chunk.js",
+    "main.js.map": "/test-homeless/static/js/main.338b1ccc.chunk.js.map",
     "runtime-main.js": "/test-homeless/static/js/runtime-main.c7b60751.js",
     "runtime-main.js.map": "/test-homeless/static/js/runtime-main.c7b60751.js.map",
-    "static/css/2.2cfa1b23.chunk.css": "/test-homeless/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.8369dcb9.chunk.js": "/test-homeless/static/js/2.8369dcb9.chunk.js",
-    "static/js/2.8369dcb9.chunk.js.map": "/test-homeless/static/js/2.8369dcb9.chunk.js.map",
+    "static/css/2.fe925b97.chunk.css": "/test-homeless/static/css/2.fe925b97.chunk.css",
+    "static/js/2.9a99ddf0.chunk.js": "/test-homeless/static/js/2.9a99ddf0.chunk.js",
+    "static/js/2.9a99ddf0.chunk.js.map": "/test-homeless/static/js/2.9a99ddf0.chunk.js.map",
     "index.html": "/test-homeless/index.html",
-    "precache-manifest.ea4e19be51c885379377a805bf3fd62a.js": "/test-homeless/precache-manifest.ea4e19be51c885379377a805bf3fd62a.js",
+    "precache-manifest.64f2007bb67112243a71b6d726753958.js": "/test-homeless/precache-manifest.64f2007bb67112243a71b6d726753958.js",
     "service-worker.js": "/test-homeless/service-worker.js",
-    "static/css/2.2cfa1b23.chunk.css.map": "/test-homeless/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/test-homeless/static/css/main.981f7211.chunk.css.map",
-    "static/js/2.8369dcb9.chunk.js.LICENSE": "/test-homeless/static/js/2.8369dcb9.chunk.js.LICENSE",
-    "static/media/persik.png": "/test-homeless/static/media/persik.4e1ec840.png"
+    "static/css/2.fe925b97.chunk.css.map": "/test-homeless/static/css/2.fe925b97.chunk.css.map",
+    "static/css/main.797ea3ec.chunk.css.map": "/test-homeless/static/css/main.797ea3ec.chunk.css.map",
+    "static/js/2.9a99ddf0.chunk.js.LICENSE": "/test-homeless/static/js/2.9a99ddf0.chunk.js.LICENSE",
+    "static/media/Home.css": "/test-homeless/static/media/bomzh.20f5a58e.png",
+    "static/media/casual.png": "/test-homeless/static/media/casual.1c0f20b2.png",
+    "static/media/slick-theme.css": "/test-homeless/static/media/slick.f97e3bbf.svg",
+    "static/media/winter.png": "/test-homeless/static/media/winter.915a88ec.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c7b60751.js",
-    "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.8369dcb9.chunk.js",
-    "static/css/main.981f7211.chunk.css",
-    "static/js/main.ea966d15.chunk.js"
+    "static/css/2.fe925b97.chunk.css",
+    "static/js/2.9a99ddf0.chunk.js",
+    "static/css/main.797ea3ec.chunk.css",
+    "static/js/main.338b1ccc.chunk.js"
   ]
 }
