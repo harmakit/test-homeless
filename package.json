@@ -2,10 +2,10 @@
   "name": "godnobomzh",
   "version": "1.0.0",
   "description": "",
-  "homepage" : "https://harmakit.github.io/test-homeless/",
+  "homepage": "https://harmakit.github.io/test-homeless/",
   "main": "index.js",
   "scripts": {
-    "start": "cross-env PORT=10888 react-scripts start",
+    "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
@@ -28,7 +28,9 @@
     "core-js": "^3.6.4",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-slick": "^0.25.2",
+    "slick-carousel": "^1.8.1"
   },
   "browserslist": {
     "production": [
